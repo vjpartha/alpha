@@ -63,7 +63,7 @@ AWS CodeBuild also runs through your `buildspec.yml` file.
 
 To test your new code during the release process, modify the existing tests or
 add tests to the tests directory. AWS CodeBuild will run the tests during the
-build stage of your project pipeline. You can find the test results
+build stage of your project pipeline. You can find the test result
 in the AWS CodeBuild console.
 
 Learn more about AWS CodeBuild and how it builds and tests your application here:
